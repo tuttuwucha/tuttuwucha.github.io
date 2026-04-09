@@ -30,11 +30,16 @@ html{
 }
 
 body{
-    background-image: linear-gradient(to bottom, #5942ac,#372185,#190a4b);
+    
     
 }
 
 nav{
+    
+
+}
+
+.header{
     width: 4vw;
     height: 100%;
     display: block;
@@ -42,10 +47,6 @@ nav{
     position: sticky;
     top: 0;
     right: 0;
-
-}
-
-.header{
     position: sticky;
     top: 0;
 }
